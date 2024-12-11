@@ -4,6 +4,4 @@
 
 - <strong>Qixiang Li</strong>, Xiaojun You. et al. (2022). Study on the measurement and influencing factors of cross-strait relations——Based on event data analysis. . <strong>World Regional Studies</strong>, 31(3). [[Paper]](https://doi.org/10.3969/j.issn.1004-9479.2022.03.2020714)
 
-- A. Cao, X. Yang, C. Wang*, <strong>S. Li</strong>, Y. Liu, L. Dou, and Q. Niu (2023). High-Precision Phase Picking and Automatic Source Locating Method for Seismicity in Mines Based on Deep Transfer Learning. <strong>Journal of China Coal Society</strong>. [[Paper]](https://doi.org/10.3969/j.issn.1004-9479.2022.03.2020714)
-
 - Xiaojun You, <strong>Qixiang Li</strong>, et al. (2022), Can collaborative innovation constrain ecological footprint? Empirical evidence from Guangdong-Hong Kong-Macao Greater Bay Area, China. <strong>Environmental Science and Pollution Research</strong>. 29, 54476–54491 . . [[Paper]](https://doi.org/10.1007/s11356-022-19648-3)
